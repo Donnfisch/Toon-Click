@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Daffy Duck",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Daffy_Duck.svg/1200px-Daffy_Duck.svg.png"
+    },
+    {
+      "id": 2,
+      "name": "Sam",
+      "clicked": false,
+      "image":
+       "https://vignette.wikia.nocookie.net/looneytunes/images/8/8c/Yosemite_Sam.png/revision/latest?cb=20180523161541"
+    },
+    {
+      "id": 3,
+      "name": "Marvin Martian",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Marvin_the_Martian.svg/1200px-Marvin_the_Martian.svg.png"
+    },
+    {
+      "id": 4,
+      "name": "Sylvester",
+      "clicked": false,
+      "image":
+        "https://i.pinimg.com/originals/7a/ca/d9/7acad968a2e1b9e934d737e9ef66025c.png"
+    },
+    {
+      "id": 5,
+      "name": "Porky Pig",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Porky_Pig.svg/150px-Porky_Pig.svg.png"
+    },
+    {
+      "id": 6,
+      "name": "Road Runner",
+      "clicked": false,
+      "image":
+        "https://i.pinimg.com/originals/23/fe/c2/23fec2b85ee88dd2fe8697eb4ff76550.gif"
+    },
+    {
+      "id": 7,
+      "name": "Taz",
+      "clicked": false,
+      "image":
+        "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Taz-Looney_Tunes.svg/220px-Taz-Looney_Tunes.svg.png"
+    },
+    {
+      "id": 8,
+      "name": "Bugs Bunny",
+      "clicked": false,
+      "image":
+        "https://vignette.wikia.nocookie.net/looneytunes/images/2/26/Classic_bugsbunny.png/revision/latest?cb=20160417193815"
+    }
+  ]
+  
